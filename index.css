@@ -6,5 +6,23 @@
 
 .subtitulos{
     font-size: 20px;
-  }
+}
 
+body{ /*Pal body xD*/
+    background-color: darkgrey;
+}
+
+#div1{
+    background-color: white;
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+}
+
+#div2{
+    background-color: white;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
