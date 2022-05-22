@@ -26,3 +26,12 @@ body{
     margin-left: 30px;
     margin-bottom: 20px;
 }
+
+#imagen{
+    border: solid;
+    border-color: black;
+}
+
+li{
+    margin: 10px;
+}
